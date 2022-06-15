@@ -1,0 +1,76 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "My 1st Post",
+      "datetime": "July 01, 2021 11:17:36 AM",
+      "body": "All our dreams can come true, if we have the courage to pursue them. - Walt Disney"
+    },
+    {
+      "id": 2,
+      "title": "My 2nd Post",
+      "datetime": "July 01, 2021 11:17:36 AM",
+      "body": "“The best time to plant a tree was 20 years ago. The second best time is now.” - Chinese Proverb"
+    },
+    {
+      "id": 3,
+      "title": "My 3rd Post",
+      "datetime": "July 01, 2021 11:17:36 AM",
+      "body": "“I wake up every morning and think to myself, ‘how far can I push this company in the next 24 hours.’” - Leah Busque"
+    },
+    {
+      "id": 4,
+      "title": "My 4th Post",
+      "datetime": "July 01, 2021 11:17:36 AM",
+      "body": "“Write it. Shoot it. Publish it. Crochet it, sauté it, whatever. MAKE.” - Joss Whedon"
+    },
+    {
+      "id": 5,
+      "title": "My 5th Post",
+      "datetime": "July 01, 2021 11:17:36 AM",
+      "body": "“Happiness is not something ready made. It comes from your own actions.” ― Dalai Lama XIV"
+    },
+    {
+      "id": 7,
+      "title": "post trial",
+      "datetime": "April 20, 2022 4:11:22 PM",
+      "body": "i am writing a paragraph"
+    },
+    {
+      "id": 8,
+      "title": "new one ",
+      "datetime": "April 20, 2022 3:58:38 PM",
+      "body": "this is my new post\n"
+    },
+    {
+      "id": 9,
+      "title": "12th post",
+      "datetime": "April 21, 2022 12:05:18 PM",
+      "body": "why would you give up .It's the time to get up ."
+    },
+    {
+      "id": 10,
+      "title": "13th post",
+      "datetime": "April 21, 2022 12:46:16 PM",
+      "body": "hi we are here"
+    },
+    {
+      "id": 11,
+      "title": "my 14th post",
+      "datetime": "May 05, 2022 6:06:51 PM",
+      "body": "its too hard to restart this project and i chgeck all the project again \nand the mistake is so silly all i have to do is check my path of json-server. psssshh........ at last it work again :)"
+    },
+    {
+      "id": 12,
+      "title": "my 15th post ",
+      "datetime": "May 06, 2022 6:26:43 PM",
+      "body": "i opened this project to show you my friend."
+    },
+    {
+      "id": 13,
+      "title": "new one ",
+      "datetime": "June 15, 2022 11:52:43 AM",
+      "body": "gufyyfvkjghufhtdgrs"
+    }
+  ]
+}
