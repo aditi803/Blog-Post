@@ -9,7 +9,9 @@ export const DataProvider = ({ children }) => {
     const [search, setSearch] = useState('');
     const [searchResults, setSearchResults] = useState([]);
 
-    const { data, fetchError, isLoading } = useAxiosFetch("http://localhost:3500/posts");
+    const { data, fetchError, isLoading } = useAxiosFetch("https://aditi-api-app.herokuapp.com/posts");
+
+    // https://aditi-api-app.herokuapp.com/posts
 
     useEffect(() => {
         setPosts(data);
